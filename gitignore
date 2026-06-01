@@ -1,0 +1,8 @@
+miller_center_speeches.tgz
+speeches/
+mentalmanip_maj.csv
+mentalmanip_con.csv
+saved_model/
+saved_model_oversampled/
+__pycache__/
+*.pyc
